@@ -1,0 +1,4 @@
+2019-11-21 09:50:32.471  INFO 23568 --- [RMI TCP Connection(184)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-11-21 09:50:32.552  INFO 23568 --- [RMI TCP Connection(184)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-21 09:50:32.640  INFO 23568 --- [RMI TCP Connection(184)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-11-21 09:50:32.643  INFO 23568 --- [RMI TCP Connection(184)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
