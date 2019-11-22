@@ -1,5 +1,5 @@
 spring:
   profiles:
-    active: qa
+    active: test
 server:
   port: 8081
